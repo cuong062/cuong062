@@ -1,3 +1,5 @@
+[![CI](https://github.com/cuong062/cuong062/actions/workflows/ci.yml/badge.svg)](https://github.com/cuong062/cuong062/actions/workflows/ci.yml)
+
 # Fruit Detector (camera) + SQLite info lookup
 
 This is a small Python demo that:
